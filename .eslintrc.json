@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true,
+    "webextensions": true
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2019
+  },
+  "extends": ["plugin:vue/essential", "eslint:recommended"]
+}
